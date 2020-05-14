@@ -18,4 +18,4 @@ The process for current [Quantum Cryptography](https://quantumxc.com/quantum-cry
 
 ## Limitations
 
-While quantum cryptography is theoretically un-hackable it is still limited, and the transfer of data is still constrained to the physical requirements. Any network that transfers data uses relays and repeaters which are vulnerable to tampering. Additionally, this concept is still highly theoretical and new ways to exploit quantum cryptography are still in the early stages of testing. Whatever the case quantum cryptography will become an essential part of data encryption in a number of years.
+While quantum cryptography is theoretically un-hackable it is still limited, and the transfer of data is still constrained to the physical requirements. Any network that transfers data uses relays and repeaters which are vulnerable to tampering. Additionally, this concept is still highly theoretical and new ways to exploit quantum cryptography are still in the early stages of testing. Whatever the case, quantum cryptography will become an essential part of data encryption in a number of years.
