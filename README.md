@@ -4,8 +4,9 @@ Encryption is a part of everyday life. It provides protection to everything from
 
 ## What is Quantum Computing
 
-Let’s first start by defining [quantum computing](https://www.ted.com/talks/shohini_ghose_a_beginner_s_guide_to_quantum_computing/discussion#t-564536). Quantum computing is amazing in that it operates on something called a qubit. These qubits can demonstrate multiple states of existence at the same time until the point it is measured, where it can only provide one state of existence as an answer. If this is a bit difficult to conceive, it is a bit easier to imagine a qubit on a spectrum. If the bit were to exist in between the one and the zero it could have 20 percent zero and 80 percent one, or any mixture of chances.  
-In terms of processing, a computer would test every possibility individually and a quantum computer would test every possibility at the same time with these mixtures of chances. Much like trying chocolate-vanilla combination ice cream and discerning that one likes the vanilla more than the chocolate, rather the computer would try each one individually. By comparison, a few put qubits together have enough processing power to solve a problem instantaneously that would take some computers thousands of years to solve. In addition to this power, it would be able to solve all math-based encryptions that are currently used today in a matter of moments if the technology was advanced enough.
+Let’s first start by defining [quantum computing](https://www.ted.com/talks/shohini_ghose_a_beginner_s_guide_to_quantum_computing/discussion#t-564536). Quantum computing is amazing in that it operates from something called a qubit. These qubits can demonstrate multiple states of existence at the same time until the point it is measured, where it can only provide one state of existence as an answer. If this is a bit difficult to conceive, it is a bit easier to imagine a qubit on a spectrum. If the bit were to exist in between the one and the zero it could have 20 percent zero and 80 percent one, or any mixture of chances. 
+
+In terms of processing, a computer would test every possibility individually and a quantum computer would test every possibility at the same time with these mixtures of chances. Much like trying chocolate-vanilla combination ice cream and discerning that one likes the vanilla more than the chocolate, rather the computer would try each flavor individually. By comparison, a few  qubit sput together have enough processing power to solve a problem instantaneously that would take some computers thousands of years to solve. In addition to this processesing capacaity, it would be able a large majority solve all math-based encryptions that are currently used today in a short matter of time.
 
 ## Why use Quantum Computing
 
@@ -13,7 +14,7 @@ Cryptography is the art of scrambling data, typically text or images, with enoug
 
 ## How Quantum Cryptography works
 
-The process for current [Quantum Cryptography](https://quantumxc.com/quantum-cryptography-explained/), uses fiber optic cables to send a sequence of photons. The sequence of photons passes through a polarizer that randomizes the orientation of the photon and sent to the receiver. A receiver only accepts the photons of a certain orientation and disregards the rest. These photons are then accepted as the key matching to the encrypted data.
+The process for current [Quantum Cryptography](https://quantumxc.com/quantum-cryptography-explained/), also known as quantum key distribution, sends photons through fiber optic cables in an ordered a sequence. The sequence of photons passes through a polarizer that randomizes the orientation of the photon and sent to the receiver. A receiver only accepts the photons of a certain orientation and disregards the rest. These photons are then accepted as the key matching to the encrypted data. As 
 
 ## Limitations
 
