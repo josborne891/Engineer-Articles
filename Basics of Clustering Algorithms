@@ -1,4 +1,4 @@
-# Basics of Clustering Algorithms
+# Basics of Clustering Algorithms 
 
 When presented with a plethora of scattered data points, it can prove helpful to find the trends and similarities within the randomness that is data collection. However, it will prove to be a daunting challenge on how to analyze large scatters of points. The process of testing every single data point as valid to a group or cluster will prove to be tedious and time-consuming, especially when there are hundreds of data points to verify. Thankfully, clustering is a widely utilized tool in unsupervised learning[https://towardsdatascience.com/unsupervised-learning-and-data-clustering-eeecb78b422a] algorithms to speed up the organization without any human input. Taking a process that could have taken hundreds of man-hours and reducing it to short computing time. 
 
